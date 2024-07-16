@@ -1,0 +1,14 @@
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m04-lists\Before\RemoveTestData\bin\Debug\net6.0\RemoveTestData.exe
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m04-lists\Before\RemoveTestData\bin\Debug\net6.0\RemoveTestData.deps.json
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m04-lists\Before\RemoveTestData\bin\Debug\net6.0\RemoveTestData.runtimeconfig.json
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m04-lists\Before\RemoveTestData\bin\Debug\net6.0\RemoveTestData.dll
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m04-lists\Before\RemoveTestData\bin\Debug\net6.0\RemoveTestData.pdb
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m04-lists\Before\RemoveTestData\obj\Debug\net6.0\RemoveTestData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m04-lists\Before\RemoveTestData\obj\Debug\net6.0\RemoveTestData.AssemblyInfoInputs.cache
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m04-lists\Before\RemoveTestData\obj\Debug\net6.0\RemoveTestData.AssemblyInfo.cs
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m04-lists\Before\RemoveTestData\obj\Debug\net6.0\RemoveTestData.csproj.CoreCompileInputs.cache
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m04-lists\Before\RemoveTestData\obj\Debug\net6.0\RemoveTestData.dll
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m04-lists\Before\RemoveTestData\obj\Debug\net6.0\refint\RemoveTestData.dll
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m04-lists\Before\RemoveTestData\obj\Debug\net6.0\RemoveTestData.pdb
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m04-lists\Before\RemoveTestData\obj\Debug\net6.0\RemoveTestData.genruntimeconfig.cache
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m04-lists\Before\RemoveTestData\obj\Debug\net6.0\ref\RemoveTestData.dll

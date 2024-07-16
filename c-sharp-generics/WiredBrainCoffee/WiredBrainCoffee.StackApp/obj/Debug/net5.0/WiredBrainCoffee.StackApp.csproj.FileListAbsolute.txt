@@ -1,0 +1,15 @@
+C:\Scripts\CSharpTraining\c-sharp-generics\WiredBrainCoffee\WiredBrainCoffee.StackApp\bin\Debug\net5.0\WiredBrainCoffee.StackApp.exe
+C:\Scripts\CSharpTraining\c-sharp-generics\WiredBrainCoffee\WiredBrainCoffee.StackApp\bin\Debug\net5.0\WiredBrainCoffee.StackApp.deps.json
+C:\Scripts\CSharpTraining\c-sharp-generics\WiredBrainCoffee\WiredBrainCoffee.StackApp\bin\Debug\net5.0\WiredBrainCoffee.StackApp.runtimeconfig.json
+C:\Scripts\CSharpTraining\c-sharp-generics\WiredBrainCoffee\WiredBrainCoffee.StackApp\bin\Debug\net5.0\WiredBrainCoffee.StackApp.runtimeconfig.dev.json
+C:\Scripts\CSharpTraining\c-sharp-generics\WiredBrainCoffee\WiredBrainCoffee.StackApp\bin\Debug\net5.0\WiredBrainCoffee.StackApp.dll
+C:\Scripts\CSharpTraining\c-sharp-generics\WiredBrainCoffee\WiredBrainCoffee.StackApp\bin\Debug\net5.0\WiredBrainCoffee.StackApp.pdb
+C:\Scripts\CSharpTraining\c-sharp-generics\WiredBrainCoffee\WiredBrainCoffee.StackApp\obj\Debug\net5.0\WiredBrainCoffee.StackApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Scripts\CSharpTraining\c-sharp-generics\WiredBrainCoffee\WiredBrainCoffee.StackApp\obj\Debug\net5.0\WiredBrainCoffee.StackApp.AssemblyInfoInputs.cache
+C:\Scripts\CSharpTraining\c-sharp-generics\WiredBrainCoffee\WiredBrainCoffee.StackApp\obj\Debug\net5.0\WiredBrainCoffee.StackApp.AssemblyInfo.cs
+C:\Scripts\CSharpTraining\c-sharp-generics\WiredBrainCoffee\WiredBrainCoffee.StackApp\obj\Debug\net5.0\WiredBrainCoffee.StackApp.csproj.CoreCompileInputs.cache
+C:\Scripts\CSharpTraining\c-sharp-generics\WiredBrainCoffee\WiredBrainCoffee.StackApp\obj\Debug\net5.0\WiredBrainCoffee.StackApp.dll
+C:\Scripts\CSharpTraining\c-sharp-generics\WiredBrainCoffee\WiredBrainCoffee.StackApp\obj\Debug\net5.0\refint\WiredBrainCoffee.StackApp.dll
+C:\Scripts\CSharpTraining\c-sharp-generics\WiredBrainCoffee\WiredBrainCoffee.StackApp\obj\Debug\net5.0\WiredBrainCoffee.StackApp.pdb
+C:\Scripts\CSharpTraining\c-sharp-generics\WiredBrainCoffee\WiredBrainCoffee.StackApp\obj\Debug\net5.0\WiredBrainCoffee.StackApp.genruntimeconfig.cache
+C:\Scripts\CSharpTraining\c-sharp-generics\WiredBrainCoffee\WiredBrainCoffee.StackApp\obj\Debug\net5.0\ref\WiredBrainCoffee.StackApp.dll

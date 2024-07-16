@@ -1,0 +1,11 @@
+C:\Scripts\CSharpTraining\working-c-sharp-records\02\demos\ps-globomantics-csharp-records\Shared\bin\Debug\net6.0\Shared.deps.json
+C:\Scripts\CSharpTraining\working-c-sharp-records\02\demos\ps-globomantics-csharp-records\Shared\bin\Debug\net6.0\Shared.dll
+C:\Scripts\CSharpTraining\working-c-sharp-records\02\demos\ps-globomantics-csharp-records\Shared\bin\Debug\net6.0\Shared.pdb
+C:\Scripts\CSharpTraining\working-c-sharp-records\02\demos\ps-globomantics-csharp-records\Shared\obj\Debug\net6.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Scripts\CSharpTraining\working-c-sharp-records\02\demos\ps-globomantics-csharp-records\Shared\obj\Debug\net6.0\Shared.AssemblyInfoInputs.cache
+C:\Scripts\CSharpTraining\working-c-sharp-records\02\demos\ps-globomantics-csharp-records\Shared\obj\Debug\net6.0\Shared.AssemblyInfo.cs
+C:\Scripts\CSharpTraining\working-c-sharp-records\02\demos\ps-globomantics-csharp-records\Shared\obj\Debug\net6.0\Shared.csproj.CoreCompileInputs.cache
+C:\Scripts\CSharpTraining\working-c-sharp-records\02\demos\ps-globomantics-csharp-records\Shared\obj\Debug\net6.0\Shared.dll
+C:\Scripts\CSharpTraining\working-c-sharp-records\02\demos\ps-globomantics-csharp-records\Shared\obj\Debug\net6.0\refint\Shared.dll
+C:\Scripts\CSharpTraining\working-c-sharp-records\02\demos\ps-globomantics-csharp-records\Shared\obj\Debug\net6.0\Shared.pdb
+C:\Scripts\CSharpTraining\working-c-sharp-records\02\demos\ps-globomantics-csharp-records\Shared\obj\Debug\net6.0\ref\Shared.dll

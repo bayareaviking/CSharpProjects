@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gpRJTqC29lnklRznTJ7b3rtelOWsPrP9gPusaaYLGQiqGY0JDOspQ7r77Z9fkOGJNWEvTEtQWrDuxwG4iF+niw==",
+  "success": true,
+  "projectFilePath": "C:\\Scripts\\CSharpTraining\\c-sharp-generics\\WiredBrainCoffee\\WiredBrainCoffee.StackApp\\WiredBrainCoffee.StackApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://www.nuget.org/api/v2'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

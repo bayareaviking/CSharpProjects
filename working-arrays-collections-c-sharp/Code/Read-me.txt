@@ -1,0 +1,10 @@
+This folder contains the demo code for
+Working with Arrays and Collections in C#
+
+For each module, 'before' and 'after' solutions that approximately represent the state of the code near the start and at the end of the module (For some modules, only'after' is relevant).  And a solution to the final challenge at the end of the course.
+
+The using-nullable-ref-types folder contains all the same solutions, but with nullable reference types enabled - so you can see what difference that makes to the code.  Note that not all the solutions actually require any changes to the C# code.
+
+All solutions are console apps created in .NET 5.
+
+If you want to run these with .NET core or .NET framework, then you could try loading and retargetting them in VS, or if that's not possible, simply create fresh console apps and then copy the .cs files across.

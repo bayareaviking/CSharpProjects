@@ -1,0 +1,45 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Web
+build_property.RootNamespace = Web
+build_property.ProjectDir = C:\Scripts\CSharpTraining\working-c-sharp-records\02\demos\ps-globomantics-csharp-records\Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Scripts\CSharpTraining\working-c-sharp-records\02\demos\ps-globomantics-csharp-records\Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Scripts/CSharpTraining/working-c-sharp-records/02/demos/ps-globomantics-csharp-records/Web/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Scripts/CSharpTraining/working-c-sharp-records/02/demos/ps-globomantics-csharp-records/Web/Components/EventLine.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFdmVudExpbmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Scripts/CSharpTraining/working-c-sharp-records/02/demos/ps-globomantics-csharp-records/Web/Components/SoldEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTb2xkRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Scripts/CSharpTraining/working-c-sharp-records/02/demos/ps-globomantics-csharp-records/Web/Pages/AddNewEvent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkTmV3RXZlbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Scripts/CSharpTraining/working-c-sharp-records/02/demos/ps-globomantics-csharp-records/Web/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Scripts/CSharpTraining/working-c-sharp-records/02/demos/ps-globomantics-csharp-records/Web/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Scripts/CSharpTraining/working-c-sharp-records/02/demos/ps-globomantics-csharp-records/Web/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-8ahen79ohv

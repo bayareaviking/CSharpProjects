@@ -1,0 +1,14 @@
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\final-challenge\SimulateJourney\bin\Debug\net6.0\SimulateJourney.exe
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\final-challenge\SimulateJourney\bin\Debug\net6.0\SimulateJourney.deps.json
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\final-challenge\SimulateJourney\bin\Debug\net6.0\SimulateJourney.runtimeconfig.json
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\final-challenge\SimulateJourney\bin\Debug\net6.0\SimulateJourney.dll
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\final-challenge\SimulateJourney\bin\Debug\net6.0\SimulateJourney.pdb
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\final-challenge\SimulateJourney\obj\Debug\net6.0\SimulateJourney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\final-challenge\SimulateJourney\obj\Debug\net6.0\SimulateJourney.AssemblyInfoInputs.cache
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\final-challenge\SimulateJourney\obj\Debug\net6.0\SimulateJourney.AssemblyInfo.cs
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\final-challenge\SimulateJourney\obj\Debug\net6.0\SimulateJourney.csproj.CoreCompileInputs.cache
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\final-challenge\SimulateJourney\obj\Debug\net6.0\SimulateJourney.dll
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\final-challenge\SimulateJourney\obj\Debug\net6.0\refint\SimulateJourney.dll
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\final-challenge\SimulateJourney\obj\Debug\net6.0\SimulateJourney.pdb
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\final-challenge\SimulateJourney\obj\Debug\net6.0\SimulateJourney.genruntimeconfig.cache
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\final-challenge\SimulateJourney\obj\Debug\net6.0\ref\SimulateJourney.dll

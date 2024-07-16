@@ -1,0 +1,5 @@
+C:\Scripts\CSharpTraining\c-sharp-extension-methods\02\demos\after\ExtensionMethods.Tests\obj\Debug\net6.0\ExtensionMethods.Tests.csproj.AssemblyReference.cache
+C:\Scripts\CSharpTraining\c-sharp-extension-methods\02\demos\after\ExtensionMethods.Tests\obj\Debug\net6.0\ExtensionMethods.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Scripts\CSharpTraining\c-sharp-extension-methods\02\demos\after\ExtensionMethods.Tests\obj\Debug\net6.0\ExtensionMethods.Tests.AssemblyInfoInputs.cache
+C:\Scripts\CSharpTraining\c-sharp-extension-methods\02\demos\after\ExtensionMethods.Tests\obj\Debug\net6.0\ExtensionMethods.Tests.AssemblyInfo.cs
+C:\Scripts\CSharpTraining\c-sharp-extension-methods\02\demos\after\ExtensionMethods.Tests\obj\Debug\net6.0\ExtensionMethods.Tests.csproj.CoreCompileInputs.cache

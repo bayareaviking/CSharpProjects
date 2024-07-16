@@ -1,0 +1,14 @@
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m05-dictionary\Before\WhichBus\bin\Debug\net6.0\WhichBus.exe
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m05-dictionary\Before\WhichBus\bin\Debug\net6.0\WhichBus.deps.json
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m05-dictionary\Before\WhichBus\bin\Debug\net6.0\WhichBus.runtimeconfig.json
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m05-dictionary\Before\WhichBus\bin\Debug\net6.0\WhichBus.dll
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m05-dictionary\Before\WhichBus\bin\Debug\net6.0\WhichBus.pdb
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m05-dictionary\Before\WhichBus\obj\Debug\net6.0\WhichBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m05-dictionary\Before\WhichBus\obj\Debug\net6.0\WhichBus.AssemblyInfoInputs.cache
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m05-dictionary\Before\WhichBus\obj\Debug\net6.0\WhichBus.AssemblyInfo.cs
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m05-dictionary\Before\WhichBus\obj\Debug\net6.0\WhichBus.csproj.CoreCompileInputs.cache
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m05-dictionary\Before\WhichBus\obj\Debug\net6.0\WhichBus.dll
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m05-dictionary\Before\WhichBus\obj\Debug\net6.0\refint\WhichBus.dll
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m05-dictionary\Before\WhichBus\obj\Debug\net6.0\WhichBus.pdb
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m05-dictionary\Before\WhichBus\obj\Debug\net6.0\WhichBus.genruntimeconfig.cache
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m05-dictionary\Before\WhichBus\obj\Debug\net6.0\ref\WhichBus.dll

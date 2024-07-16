@@ -1,0 +1,12 @@
+C:\Scripts\CSharpTraining\c-sharp-extension-methods\02\demos\after\ExtensionMethods.Library\bin\Debug\net6.0\ExtensionMethods.Library.deps.json
+C:\Scripts\CSharpTraining\c-sharp-extension-methods\02\demos\after\ExtensionMethods.Library\bin\Debug\net6.0\ExtensionMethods.Library.dll
+C:\Scripts\CSharpTraining\c-sharp-extension-methods\02\demos\after\ExtensionMethods.Library\bin\Debug\net6.0\ExtensionMethods.Library.pdb
+C:\Scripts\CSharpTraining\c-sharp-extension-methods\02\demos\after\ExtensionMethods.Library\obj\Debug\net6.0\ExtensionMethods.Library.csproj.AssemblyReference.cache
+C:\Scripts\CSharpTraining\c-sharp-extension-methods\02\demos\after\ExtensionMethods.Library\obj\Debug\net6.0\ExtensionMethods.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Scripts\CSharpTraining\c-sharp-extension-methods\02\demos\after\ExtensionMethods.Library\obj\Debug\net6.0\ExtensionMethods.Library.AssemblyInfoInputs.cache
+C:\Scripts\CSharpTraining\c-sharp-extension-methods\02\demos\after\ExtensionMethods.Library\obj\Debug\net6.0\ExtensionMethods.Library.AssemblyInfo.cs
+C:\Scripts\CSharpTraining\c-sharp-extension-methods\02\demos\after\ExtensionMethods.Library\obj\Debug\net6.0\ExtensionMethods.Library.csproj.CoreCompileInputs.cache
+C:\Scripts\CSharpTraining\c-sharp-extension-methods\02\demos\after\ExtensionMethods.Library\obj\Debug\net6.0\ExtensionMethods.Library.dll
+C:\Scripts\CSharpTraining\c-sharp-extension-methods\02\demos\after\ExtensionMethods.Library\obj\Debug\net6.0\refint\ExtensionMethods.Library.dll
+C:\Scripts\CSharpTraining\c-sharp-extension-methods\02\demos\after\ExtensionMethods.Library\obj\Debug\net6.0\ExtensionMethods.Library.pdb
+C:\Scripts\CSharpTraining\c-sharp-extension-methods\02\demos\after\ExtensionMethods.Library\obj\Debug\net6.0\ref\ExtensionMethods.Library.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qLc+y69mAsUUqdJ+Q0r+lGcMi7Z9+4kRAgnrb+DFI5cDJJJL7CR3teGI7rcltGkYPlz3tWjSiNeCqCS5XLKmgA==",
+  "success": true,
+  "projectFilePath": "C:\\Scripts\\CSharpTraining\\working-arrays-collections-c-sharp\\Code\\m08-stacksqueues\\Before\\SimulateJourney\\SimulateJourney.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://www.nuget.org/api/v2'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

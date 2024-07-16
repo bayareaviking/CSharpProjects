@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bPn/z+tNTUm1qx+0aP3wKELWp42sBO1dz8Ceszzdmzs/8kkESwNFiMjiCKrBa3EfITy3G2QtiozEHkGGnXfCGg==",
+  "success": true,
+  "projectFilePath": "C:\\Scripts\\CSharpTraining\\working-c-sharp-records\\02\\demos\\ClassesAndRecords\\ClassesAndRecords\\ClassesAndRecords.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://www.nuget.org/api/v2'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

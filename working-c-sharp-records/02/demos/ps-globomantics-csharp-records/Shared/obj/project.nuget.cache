@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xq+AwqqPLcdDGw4KwGmFQYILUFiBwpq7pjRSG9Cpuy2Y8MLUfMiXthTdn/ed6G0kOOMk4GX154heI/SMRDO3Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Scripts\\CSharpTraining\\working-c-sharp-records\\02\\demos\\ps-globomantics-csharp-records\\Shared\\Shared.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://www.nuget.org/api/v2'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

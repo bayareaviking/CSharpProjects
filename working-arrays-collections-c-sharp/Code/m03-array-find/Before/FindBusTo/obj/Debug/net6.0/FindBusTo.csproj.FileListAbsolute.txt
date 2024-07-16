@@ -1,0 +1,14 @@
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m03-array-find\Before\FindBusTo\bin\Debug\net6.0\FindBusTo.exe
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m03-array-find\Before\FindBusTo\bin\Debug\net6.0\FindBusTo.deps.json
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m03-array-find\Before\FindBusTo\bin\Debug\net6.0\FindBusTo.runtimeconfig.json
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m03-array-find\Before\FindBusTo\bin\Debug\net6.0\FindBusTo.dll
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m03-array-find\Before\FindBusTo\bin\Debug\net6.0\FindBusTo.pdb
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m03-array-find\Before\FindBusTo\obj\Debug\net6.0\FindBusTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m03-array-find\Before\FindBusTo\obj\Debug\net6.0\FindBusTo.AssemblyInfoInputs.cache
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m03-array-find\Before\FindBusTo\obj\Debug\net6.0\FindBusTo.AssemblyInfo.cs
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m03-array-find\Before\FindBusTo\obj\Debug\net6.0\FindBusTo.csproj.CoreCompileInputs.cache
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m03-array-find\Before\FindBusTo\obj\Debug\net6.0\FindBusTo.dll
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m03-array-find\Before\FindBusTo\obj\Debug\net6.0\refint\FindBusTo.dll
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m03-array-find\Before\FindBusTo\obj\Debug\net6.0\FindBusTo.pdb
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m03-array-find\Before\FindBusTo\obj\Debug\net6.0\FindBusTo.genruntimeconfig.cache
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m03-array-find\Before\FindBusTo\obj\Debug\net6.0\ref\FindBusTo.dll

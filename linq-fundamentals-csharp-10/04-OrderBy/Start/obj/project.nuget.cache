@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "++QHW1FAIM/6B87k4f93owSPBWL1xVTgEgRCx6KPjl2o0pxwrK4yP5sA4VgOmNIyULjJTPkT9fpSqlUVOPqSkA==",
+  "success": true,
+  "projectFilePath": "C:\\Scripts\\CSharpTraining\\linq-fundamentals-csharp-10\\04-OrderBy\\Start\\LINQSamples.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://www.nuget.org/api/v2'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

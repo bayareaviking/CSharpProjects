@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vYISzmm3YYLwHlPlpCX9f9Z/k4zGNYMsImLUioozua/LyFmPnDHZpqwxWEFneHxgb/jLvmzPMvV5/kDoP+rNCA==",
+  "success": true,
+  "projectFilePath": "C:\\Scripts\\CSharpTraining\\working-arrays-collections-c-sharp\\Code\\m02-arrays\\After\\DisplayRoutes\\DisplayRoutes.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://www.nuget.org/api/v2'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

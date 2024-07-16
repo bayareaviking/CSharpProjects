@@ -1,0 +1,14 @@
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m02-arrays\Before\DisplayRoutes\bin\Debug\net6.0\DisplayRoutes.exe
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m02-arrays\Before\DisplayRoutes\bin\Debug\net6.0\DisplayRoutes.deps.json
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m02-arrays\Before\DisplayRoutes\bin\Debug\net6.0\DisplayRoutes.runtimeconfig.json
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m02-arrays\Before\DisplayRoutes\bin\Debug\net6.0\DisplayRoutes.dll
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m02-arrays\Before\DisplayRoutes\bin\Debug\net6.0\DisplayRoutes.pdb
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m02-arrays\Before\DisplayRoutes\obj\Debug\net6.0\DisplayRoutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m02-arrays\Before\DisplayRoutes\obj\Debug\net6.0\DisplayRoutes.AssemblyInfoInputs.cache
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m02-arrays\Before\DisplayRoutes\obj\Debug\net6.0\DisplayRoutes.AssemblyInfo.cs
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m02-arrays\Before\DisplayRoutes\obj\Debug\net6.0\DisplayRoutes.csproj.CoreCompileInputs.cache
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m02-arrays\Before\DisplayRoutes\obj\Debug\net6.0\DisplayRoutes.dll
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m02-arrays\Before\DisplayRoutes\obj\Debug\net6.0\refint\DisplayRoutes.dll
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m02-arrays\Before\DisplayRoutes\obj\Debug\net6.0\DisplayRoutes.pdb
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m02-arrays\Before\DisplayRoutes\obj\Debug\net6.0\DisplayRoutes.genruntimeconfig.cache
+C:\Scripts\CSharpTraining\working-arrays-collections-c-sharp\Code\m02-arrays\Before\DisplayRoutes\obj\Debug\net6.0\ref\DisplayRoutes.dll

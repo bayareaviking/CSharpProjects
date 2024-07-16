@@ -1,0 +1,12 @@
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-08-validating-emails/01-08-validating-emails/bin/Debug/01-08-validating-emails.exe
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-08-validating-emails/01-08-validating-emails/bin/Debug/01-08-validating-emails.pdb
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-08-validating-emails/01-08-validating-emails/obj/Debug/01-08-validating-emails.csproj.AssemblyReference.cache
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-08-validating-emails/01-08-validating-emails/obj/Debug/01-08-validating-emails.csproj.CoreCompileInputs.cache
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-08-validating-emails/01-08-validating-emails/obj/Debug/01-08-validating-emails.exe
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/01-08-validating-emails/01-08-validating-emails/obj/Debug/01-08-validating-emails.pdb
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/Exercise Files/01-08-validating-emails/bin/Debug/01-08-validating-emails.exe
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/Exercise Files/01-08-validating-emails/bin/Debug/01-08-validating-emails.pdb
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/Exercise Files/01-08-validating-emails/obj/Debug/01-08-validating-emails.csproj.AssemblyReference.cache
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/Exercise Files/01-08-validating-emails/obj/Debug/01-08-validating-emails.csproj.CoreCompileInputs.cache
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/Exercise Files/01-08-validating-emails/obj/Debug/01-08-validating-emails.exe
+/Users/harrisonferrone/Desktop/Tutorials/LIL/C# Coding Challenges/Exercise Files/01-08-validating-emails/obj/Debug/01-08-validating-emails.pdb

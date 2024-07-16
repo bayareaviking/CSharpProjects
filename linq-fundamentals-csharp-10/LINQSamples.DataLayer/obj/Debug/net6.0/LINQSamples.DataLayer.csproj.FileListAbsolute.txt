@@ -1,0 +1,11 @@
+C:\Scripts\CSharpTraining\linq-fundamentals-csharp-10\LINQSamples.DataLayer\bin\Debug\net6.0\LINQSamples.DataLayer.deps.json
+C:\Scripts\CSharpTraining\linq-fundamentals-csharp-10\LINQSamples.DataLayer\bin\Debug\net6.0\LINQSamples.DataLayer.dll
+C:\Scripts\CSharpTraining\linq-fundamentals-csharp-10\LINQSamples.DataLayer\bin\Debug\net6.0\LINQSamples.DataLayer.pdb
+C:\Scripts\CSharpTraining\linq-fundamentals-csharp-10\LINQSamples.DataLayer\obj\Debug\net6.0\LINQSamples.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Scripts\CSharpTraining\linq-fundamentals-csharp-10\LINQSamples.DataLayer\obj\Debug\net6.0\LINQSamples.DataLayer.AssemblyInfoInputs.cache
+C:\Scripts\CSharpTraining\linq-fundamentals-csharp-10\LINQSamples.DataLayer\obj\Debug\net6.0\LINQSamples.DataLayer.AssemblyInfo.cs
+C:\Scripts\CSharpTraining\linq-fundamentals-csharp-10\LINQSamples.DataLayer\obj\Debug\net6.0\LINQSamples.DataLayer.csproj.CoreCompileInputs.cache
+C:\Scripts\CSharpTraining\linq-fundamentals-csharp-10\LINQSamples.DataLayer\obj\Debug\net6.0\LINQSamples.DataLayer.dll
+C:\Scripts\CSharpTraining\linq-fundamentals-csharp-10\LINQSamples.DataLayer\obj\Debug\net6.0\refint\LINQSamples.DataLayer.dll
+C:\Scripts\CSharpTraining\linq-fundamentals-csharp-10\LINQSamples.DataLayer\obj\Debug\net6.0\LINQSamples.DataLayer.pdb
+C:\Scripts\CSharpTraining\linq-fundamentals-csharp-10\LINQSamples.DataLayer\obj\Debug\net6.0\ref\LINQSamples.DataLayer.dll
